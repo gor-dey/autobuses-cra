@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "https://3dback.kazaerospace.kz/api/v1/",
+  baseURL: "http://95.59.124.162:8290/api/v1/",
 });
